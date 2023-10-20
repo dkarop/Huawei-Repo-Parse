@@ -5,7 +5,7 @@ Looking firmware for your old huawei? Check official huawei repo for legit softw
 A little python script for parsing legit Huawei firmware from official repo.
 
 
-It creates a list of active direct links with filename like the following
+It creates a list of active direct links with filenames, like the following
 
 http://download-c.huawei.com/download/downloadCenter?downloadId=48724 : ['"D__P8%20lite%20ALE-L21_ALE-L21%20P8%20lite%20Smartphone%20FAQs%20.docx"']
 http://download-c.huawei.com/download/downloadCenter?downloadId=48727 : ['"GRA-L13%20User%20Guide.pdf"']
